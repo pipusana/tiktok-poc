@@ -1,0 +1,18 @@
+tiktok data
+
+- node 
+  - const, let
+  - timestamp, timezone
+  - tiktok-scraper
+  - function scope, block scope
+- docker
+  - docker-compose
+- mongo
+  - insert
+- robomongo
+  - login
+  - UI
+
+
+1.programing น่ากลัวไหม
+2.ได้่ความรู้จาก class นี้ไหม ถ้าได้ ได้อะไรบ้าง

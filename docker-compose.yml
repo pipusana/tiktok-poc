@@ -1,0 +1,10 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  mongo:
+    container_name: jim-mongo
+    image: mongo:4.0
+    ports:
+      - "27020:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: tiktok
+      MONGO_INITDB_ROOT_PASSWORD: tiktoktiktok
